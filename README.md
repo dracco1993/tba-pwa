@@ -26,8 +26,8 @@ For testing out the feasibility of different potential stacks for a progressive 
 ## Potential Additions to Test
 
 - [ ] Next.js + SWR
-  - [ ] Initial setup
-  - [x] Event listing page (48f1be9dbc3a42143451a53ce6243270dc1f3be6)
+  - [x] [Initial setup](https://github.com/dracco1993/tba-pwa/commit/bc199f714e35296be690128a609f7158e2090634)
+  - [x] [Event listing page](https://github.com/dracco1993/tba-pwa/commit/48f1be9dbc3a42143451a53ce6243270dc1f3be6)
   - [ ] Event details page
   - [ ] Deploy to GCP
   - Notes:
