@@ -27,7 +27,7 @@ For testing out the feasibility of different potential stacks for a progressive 
 
 - [ ] Next.js + SWR
   - [ ] Initial setup
-  - [ ] Event listing page
+  - [x] Event listing page (48f1be9dbc3a42143451a53ce6243270dc1f3be6)
   - [ ] Event details page
   - [ ] Deploy to GCP
   - Notes:
